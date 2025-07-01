@@ -39,7 +39,7 @@
 
 1. Clone this repository:
 
-   git clone 
+   git clone :(https://github.com/mohammedmohammed1/Data-science-/tree/main)
    
 2. Install the required libraries:
 
@@ -50,6 +50,8 @@
  📩 Contact
 
 Mohammed Yasin
+
 📧 Email: mohamedyasin9168@gmail.com
+
 📱 LinkedIn: https://www.linkedin.com/in/mohammed-yasin-12a2392a6/
 
